@@ -20,7 +20,7 @@ A six-page Power BI dashboard of Saudi government revenue, expenditure, fiscal b
 - **Analysis and Classification of Suspicious Digital Activities Using Machine Learning**: graduation project, second place at the Humanities Research and Innovation Forum 2026. Python, Random Forest, Flask
 - **Customer Engagement and Sales Analysis**: Power BI, Power Query and DAX
 - **Library Usage Data Analysis**: Power BI, Python and Excel
-- **Publication**: co-author of *Evaluating Large Language Model Reliability in Academic Advising*, accepted in Acta Innovations (2026)
+- **Publication**: co-author of [*Evaluating the Reliability of Large Language Models for Academic Advising in Higher Education*](https://doi.org/10.62441/actainnovations.v64i.3303), Acta Innovations, Vol. 64 (2026), pp. 784–797
 
 ## Tools
 
